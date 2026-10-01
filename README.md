@@ -258,6 +258,16 @@ The experience helped me understand:
 
 ---
 
+### ✦ Currently Building & Exploring
+
+- 🌐 **Personal Portfolio** — Interactive, aesthetic web portfolio
+- 🎨 **UI/UX Experiments** — Creative layouts, animations & interactions
+- 🤖 **AI × Web** — RAG, AI assistants & intelligent web apps
+- 🔬 **RAG Research** — Reducing hallucinations in educational QA
+- ✨ **Creative Tech** — Experiments combining design, web & AI
+
+---
+
 # 🔬 Research & Academic Interests
 
 ## AI, LLMs & Retrieval-Augmented Generation
