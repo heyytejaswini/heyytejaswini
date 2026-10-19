@@ -341,6 +341,8 @@ Web development · AI · research · design · emerging technology
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0B1026&section=footer&animation=twinkling" width="100%"/>
+
 </div>
 
 <!-- Made with curiosity, caffeine, and too many browser tabs. 🩵 -->
