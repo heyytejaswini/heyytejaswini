@@ -316,11 +316,15 @@ I'm building a foundation across **software engineering, AI, research, design an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heyytejaswini&show_icons=true&hide_border=true&include_all_commits=true&hide=stars,prs,issues,contribs&title_color=7CBFE9&icon_color=7CBFE9&text_color=6B7280&bg_color=FFFFFF00" height="165"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=heyytejaswini&hide_border=true&background=FFFFFF00&ring=7CBFE9&fire=7CBFE9&currStreakLabel=7CBFE9&sideLabels=8B949E&currStreakNum=8B949E&sideNums=8B949E&dates=8B949E"/>
+</p>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyytejaswini&layout=compact&langs_count=20&hide_border=true&title_color=7CBFE9&text_color=8B949E&bg_color=FFFFFF00"/>
+</p>
 
-<br><br>
+<br>
 
 ### 🩵 Let's connect
 Web development · AI · research · design · emerging technology
