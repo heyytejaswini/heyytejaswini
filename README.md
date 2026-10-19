@@ -1,67 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7CBFE9&height=200&text=Tejaswini%20V" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1026&height=220&section=header&text=Tejaswini%20V&fontColor=7CBFE9&fontSize=60&animation=twinkling&desc=design%20%C3%97%20technology%20%C3%97%20curiosity&descAlignY=72&descSize=18" width="100%"/>
 
-### `design × technology × curiosity`
-
-**Building digital experiences • exploring intelligent systems • documenting the journey**
-
-<br>
-
-<a href="https://github.com/heyytejaswini">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/heyytejaswini/Starstamp">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=7CBFE9&center=true&vCenter=true&width=640&lines=BCA+student+%40+CHRIST+University%2C+Bengaluru;building+Starstamp%3A+letters+that+wait+for+the+right+moment;exploring+RAG%2C+agentic+AI+and+GPU+computing;I+care+how+things+work+%E2%80%94+and+how+they+feel" alt="typing intro"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/heyytejaswini/">
-<img src="https://img.shields.io/badge/LinkedIn-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+<br><br>
+
+<a href="https://github.com/heyytejaswini"><img src="https://img.shields.io/badge/GitHub-heyytejaswini-0B1026?style=for-the-badge&logo=github&logoColor=7CBFE9"/></a>
+<a href="https://www.linkedin.com/in/heyytejaswini/"><img src="https://img.shields.io/badge/LinkedIn-Tejaswini%20V-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=0B1026"/></a>
 
 </div>
 
 ---
 
-## 🩵 Hello, I'm Tejaswini
+## ✦ Hello, I'm Tejaswini
 
-I'm a **first-year Bachelor of Computer Applications (BCA) student at CHRIST (Deemed to be University), Bengaluru**, exploring the intersection of **technology, design, artificial intelligence, and research**.
+First-year **BCA student at CHRIST (Deemed to be University), Bengaluru**, working where **software, AI, research and design** meet.
 
-My development journey currently spans **web development, backend technologies, AI, digital content, academic research, institutional technology, and robotics**.
+I like understanding *how* something works, and also *how it feels to use it*: the structure of a website, how information gets discovered, how an AI system retrieves and communicates what it knows.
 
-I enjoy understanding not only **how something works**, but also **how people experience it** — from the structure of a website and the way information is discovered, to the way an AI system retrieves and communicates knowledge.
-
-> **I like building things that work — but I also care about how they feel, flow, and communicate.**
-
----
-
-# ✦ What I'm Interested In
+> *I like building things that work, and I care that they feel, flow and communicate.*
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Web & Digital Experiences
-
-- Frontend development
-- Full-stack development
-- UI / UX
-- Information architecture
-- Website evaluation
-- Content structuring
-- Digital communication
-- Interactive experiences
+**🌐 Web & Digital Experience**
+Full-stack development · UI/UX · information architecture · content structuring · interactive experiences
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Emerging Technology
-
-- Artificial Intelligence
-- Large Language Models
-- RAG
-- Agentic AI
-- AI applications
-- Intelligent information retrieval
-- Robotics
-- GPU-accelerated computing
+**🤖 AI & Emerging Tech**
+LLMs · RAG · agentic AI · intelligent information retrieval · robotics · GPU-accelerated computing
 
 </td>
 </tr>
@@ -69,703 +42,290 @@ I enjoy understanding not only **how something works**, but also **how people ex
 
 ---
 
-# 💻 Developer Side
+## 🌠 Featured: Starstamp
 
-## 🧩 Tech Stack
+<div align="center">
 
-### Programming
+### *write a letter. seal it. let the sky decide when it opens.*
 
-<p>
-<img src="https://img.shields.io/badge/C-7CBFE9?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-7CBFE9?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7CBFE9?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
+</div>
 
-### Frontend
+**Starstamp** is a web app for time-locked letters. You write a letter and seal it with an unlock rule: a **date**, or something like **"when it rains in my city."** You can choose to turn the letter into a **star** in a shared sky. The star shows that a letter exists but never what it says. When the rule is met, the letter unfolds. Letters can also be answered with sealed replies, which form chains that grow into a **web of letters**.
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-7CBFE9?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-7CBFE9?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-7CBFE9?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-7CBFE9?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/AngularJS-7CBFE9?style=for-the-badge&logo=angularjs&logoColor=white"/>
-</p>
+`🚧 In Progress`
 
-### Backend & Databases
+### The stack, in plain words
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-7CBFE9?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-7CBFE9?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-7CBFE9?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-7CBFE9?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+| Part | Tool | Its job in Starstamp |
+|---|---|---|
+| **Frontend** | Next.js · React · Tailwind | The sky, the writing desk, *My Letters* |
+| **Animation** | Canvas · GSAP · Framer Motion | Falling stars, the hourglass, pages unfolding |
+| **Backend** | Next.js server code on Vercel | Anything that must be trusted: saving letters, checking if one can open |
+| **Database** | Supabase Postgres | Letters, stars, lights |
+| **Auth** | Supabase Auth | Email-link or Google sign-in |
+| **Realtime** | Supabase Realtime | Live shooting stars and who's online |
+| **Weather** | Open-Meteo API | "Is it raining in this city right now?" |
 
-### AI / Emerging Technologies
+### The life of a letter
 
-<p>
-<img src="https://img.shields.io/badge/LLMs-7CBFE9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7CBFE9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-7CBFE9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Robotics-7CBFE9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GPU%20Computing-7CBFE9?style=for-the-badge"/>
-</p>
+```mermaid
+flowchart LR
+    A["✍️ Write & seal<br/>text + unlock rule + public star?"] --> B["🔒 State: sealed<br/>(public → a textless star appears)"]
+    B --> C{"Someone asks<br/>to open it"}
+    C -->|"server checks the rule<br/>date or Open-Meteo rain"| D{"Rule passes?"}
+    D -->|"no"| B
+    D -->|"yes"| E["📬 Marked opened<br/>text returned, page unfolds"]
+    E --> F["💌 Seal a reply<br/>→ chains → web of letters"]
+```
 
-### Tools & Creative Technology
+### Design decisions I'm proud of
 
-<p>
-<img src="https://img.shields.io/badge/Git-7CBFE9?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-7CBFE9?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-7CBFE9?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-7CBFE9?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-7CBFE9?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-7CBFE9?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+- **The browser is never trusted.** Anyone can open DevTools and tamper with what a page sends, so *"you can't read a sealed letter"* is enforced by the database itself with **Row Level Security (RLS)**, not by hiding things in the UI.
+- **Lazy checking.** Nothing ticks in the background. The server tests the unlock rule only when someone asks to open a letter, so version 1 needs no scheduler.
+- **Stretch goal:** "your letter can open now" emails, which will need scheduled jobs. I'll check the current Vercel plan limits before relying on them.
 
 ---
 
-# ✦ Projects & Things I've Built
+## ✦ Other Things I've Built
 
-## ☕ Brew & Bloom Café
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Full-Stack Web Project**
-
+### ☕ Brew & Bloom Café
 `HTML` `CSS` `JavaScript` `React` `Node.js` `Express` `MySQL` `MongoDB`
 
-A café website concept designed around **navigation, visual hierarchy, structured information, and user experience**.
+A full-stack café website concept about navigation, visual hierarchy and structured content: responsive design, interactive forms, database connectivity, and sustainability / SDG-linked content.
+`🚧 In Progress`
 
-### Exploring
+</td>
+<td width="50%" valign="top">
 
-- Responsive website design
-- Interactive registration and submission forms
-- Frontend and backend integration
-- Database connectivity
-- SQL / MySQL
-- MongoDB
-- Structured content
-- Sustainability-related content and SDG connections
-
-**Status:** `🚧 In Progress`
-
----
-
-## 🌙 Lumé
-
-**Productivity & Wellness Web Application**
-
+### 🌙 Lumé
 `HTML` `CSS` `JavaScript` `Git`
 
-A productivity concept combining:
+A productivity and wellness app with Pomodoro focus sessions, task management and structured break activities, exploring external API integrations. Built around simplicity and user flow.
 
-- ⏱️ Pomodoro-based focus sessions
-- ✅ Task management
-- 🌿 Structured break activities
-- 🎵 Exploration of external API integrations
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-The concept focuses on **simplicity, usability, visual hierarchy, and user flow**.
+### 🎮 Unity 2D Shooter
+`Unity` `2D game dev`
 
----
+A functional 2D shooter. I worked on level design, gameplay mechanics, collision and physics, scoring, UI and playtesting, on top of an existing C# framework.
 
-## 🎮 Unity 2D Shooter
+</td>
+<td width="50%" valign="top">
 
-**Game Development Project**
+### 🗑️ Automatic E-Dustbin
+`Arduino UNO` `HC-SR04` `Servo`
 
-`Unity` `2D Game Development`
+A sensor-driven dustbin: ultrasonic detection triggers servo-controlled lid movement. A small project in hardware, logic and accessibility-minded design.
 
-A functional 2D shooter developed as part of a game-development project.
+</td>
+</tr>
+</table>
 
-### Worked on
-
-- Level design
-- Gameplay mechanics
-- Collision detection
-- Physics
-- Player interactions
-- Scoring
-- UI
-- Gameplay testing
-- Iterative development
-
-The project used an existing **C# implementation/framework**, while my focus was on **gameplay, level construction, Unity-side implementation, and testing**.
+<sub>Coursework also covers AngularJS, React, SQL/MySQL, MongoDB, Node.js and Express: controllers, data binding, event handling, forms and database integration.</sub>
 
 ---
 
-## 🗑️ Automatic E-Dustbin System
+## 🤖 AI × HPC
 
-**Digital Logic & Embedded Systems Project**
-
-`Arduino UNO` `HC-SR04` `Servo Motor`
-
-A sensor-based automated dustbin system designed to demonstrate the interaction between **hardware, sensors, programmed logic, and physical output**.
-
-### Highlights
-
-- Automated lid movement
-- Ultrasonic object detection
-- Arduino-based control
-- Servo motor actuation
-- Sensor-based automation
-- Accessibility-oriented design thinking
-
----
-
-## 🌐 Academic Web Development Projects
-
-Throughout my coursework, I've worked with:
-
-- HTML
-- CSS
-- JavaScript
-- AngularJS
-- React
-- SQL
-- MySQL
-- MongoDB
-- Node.js
-- Express
-
-### Concepts explored
-
-`Controllers` · `Data Binding` · `Event Handling` · `Dynamic Content` · `Forms` · `Database Integration` · `Navigation` · `Content Organization` · `User Interaction`
-
----
-
-# 🤖 AI × HPC
-
-## Enterprise AI / HPC Bootcamp 2026
-
-### Centre for Artificial Intelligence — CHRIST (Deemed to be University)
-
-Selected for the **Enterprise AI Bootcamp / HPC training initiative** involving high-performance AI computing.
-
-The experience provided hands-on exposure to **NVIDIA H100 GPU-based AI workflows and enterprise AI technologies**.
-
-### Technologies & Concepts
+**Enterprise AI / HPC Bootcamp 2026**, Centre for AI, CHRIST (Deemed to be University): hands-on work with **NVIDIA H100** GPU-based AI workflows.
 
 | Area | Exposure |
 |---|---|
-| GPU Computing | NVIDIA H100 |
-| AI Frameworks | NVIDIA NeMo |
-| Model Adaptation | QLoRA / Fine-tuning |
-| Accelerated Computing | RAPIDS |
-| AI | Enterprise AI workflows |
-| Research | AI / LLM applications |
+| GPU computing | NVIDIA H100 |
+| AI frameworks | NVIDIA NeMo |
+| Model adaptation | QLoRA / fine-tuning |
+| Accelerated computing | RAPIDS |
 
-### Beyond the tools
+`AI models → model adaptation → GPU infrastructure → accelerated workflows → practical applications`
 
-The experience helped me understand:
-
-**AI models → model adaptation → GPU infrastructure → accelerated workflows → practical applications**
-
----
-
-### ✦ Currently Building & Exploring
-
-- 🌐 **Personal Portfolio** — Interactive, aesthetic web portfolio
-- 🎨 **UI/UX Experiments** — Creative layouts, animations & interactions
-- 🤖 **AI × Web** — RAG, AI assistants & intelligent web apps
-- 🔬 **RAG Research** — Reducing hallucinations in educational QA
-- ✨ **Creative Tech** — Experiments combining design, web & AI
-
----
-
-# 🔬 Research & Academic Interests
-
-## AI, LLMs & Retrieval-Augmented Generation
-
-### Current Research Interest
+### 🔬 Research interest
 
 > **Evaluating RAG Systems for Reducing Hallucinations in Educational Question Answering**
 
-I'm interested in understanding how retrieval mechanisms can influence the **accuracy, grounding, reliability, and usefulness** of LLM-generated responses.
-
-### Areas I'm exploring
-
-- Large Language Models
-- Retrieval-Augmented Generation
-- Hallucination reduction
-- AI-assisted education
-- Educational question answering
-- Intelligent information retrieval
-- Agentic AI
-- AI agents
-- LLM applications
-- Robotics
-- Emerging AI technologies
-
-### Research questions I'm interested in
-
 - How does retrieval affect factual reliability?
-- Why do LLMs hallucinate even when answering knowledge-based questions?
+- Why do LLMs hallucinate even on knowledge-based questions?
 - How can external knowledge improve grounding?
-- How should RAG systems be evaluated in educational contexts?
+- How should RAG systems be evaluated in educational settings?
 - Where can agentic systems improve information retrieval?
 
 ---
 
-# 🏛️ Professional Experience
+## 🏛️ Experience
 
-## 🤖 Centre for AI — CHRIST (Deemed to be University)
+| Role | Where | When |
+|---|---|---|
+| **AI / HPC Intern & Peer Trainer** | Centre for AI, CHRIST University | 2026 – Present |
+| **IT Support Intern** | Office of IT Services, CHRIST University | Jul 2026 – Present |
+| **Management Intern** (Team Head) | Office of Admissions, CHRIST Central Campus | 185+ hrs of service across 1st and 2nd PUC |
+| **Business Development Specialist Intern** | Younity | 2024 |
 
-**AI / HPC Intern & Peer Trainer**  
-`2026 – Present`
+<details>
+<summary><b>What I did in each role</b></summary>
 
-- Selected for the Enterprise AI Bootcamp / HPC training initiative involving high-performance AI computing.
-- Gained hands-on exposure to NVIDIA H100 GPU-based AI workflows and enterprise AI technologies.
-- Worked with NVIDIA NeMo, QLoRA / fine-tuning, and RAPIDS.
-- Participated in AI-focused technical learning and knowledge-sharing activities.
-- Developed an understanding of modern AI infrastructure, model adaptation, and accelerated computing workflows.
+<br>
 
----
+**Centre for AI.** Worked with NeMo, QLoRA/fine-tuning and RAPIDS on H100s; took part in technical learning and knowledge-sharing; built an understanding of AI infrastructure and accelerated workflows.
 
-## 💻 Office of IT Services — CHRIST (Deemed to be University)
+**Office of IT Services.** Backend operations, technical documentation and institutional IT workflows; supported technology needs across the university.
 
-**IT Support Intern**  
-`July 2026 – Present`
+**Office of Admissions.** Handled student and parent queries, assisted with admission processes, coordinated floor operations in high-footfall periods and led a team.
 
-- Work closely with backend operations, documentation, and institutional IT workflows.
-- Assist with maintaining and organizing technical documentation and information required for IT processes.
-- Support technology-related requirements within the university environment.
-- Gain practical exposure to institutional digital systems, backend processes, and structured documentation.
+**Younity.** Client outreach and business-development calls; professional communication and stakeholder interaction.
 
----
-
-## 🏫 Office of Admissions — CHRIST University, Central Campus
-
-**Management Intern**
-
-- Completed **150+ hours** of service during 1st PUC and an additional **35+ hours** during 2nd PUC.
-- Supported student and parent queries.
-- Assisted with admission-related processes.
-- Coordinated floor operations during high-footfall admission periods.
-- Served as a **Team Head**, coordinating responsibilities and supporting smooth execution of assigned activities.
+</details>
 
 ---
 
-## 📞 Younity
+## 📌 Digital Content & Design
 
-**Business Development Specialist Intern**  
-`2024`
+<div align="center">
 
-- Conducted client outreach and business-development calls.
-- Communicated with prospective users and clients.
-- Supported outreach initiatives.
-- Developed experience in professional communication, information presentation, and stakeholder interaction.
+| `4.2M+` | `2M+` |
+|:---:|:---:|
+| Pinterest impressions | Audience reach |
 
----
+</div>
 
-# 📌 Digital Content & Design
+Content work built on **visual communication, discoverability, trend analysis and digital storytelling**. Design tools: **Canva** (graphics, social, presentations) and **Figma** (basic UI, layout and interface structure).
 
-## Pinterest — Digital Content Creator
-
-I've built a digital content presence generating:
-
-### `4.2M+` impressions
-### `2M+` audience reach
-
-My content work focuses on **visual communication, aesthetic presentation, discoverability, and audience engagement**.
-
-### Skills developed through content creation
-
-- Content planning
-- Visual communication
-- Trend analysis
-- Platform strategy
-- Audience understanding
-- Digital storytelling
-- Discoverability
-- Aesthetic curation
-
----
-
-## 🎨 Design & Digital Communication
-
-**Canva**
-
-- Digital graphics
-- Visual communication
-- Social-media content
-- Presentation design
-
-**Figma**
-
-- Basic UI design
-- Layout exploration
-- Interface structure
-
-**Digital Experience**
-
-- Website layout
-- Visual hierarchy
-- Content structuring
-- Information presentation
-- Digital storytelling
-- Basic SEO
-- Social-media content
-
----
-
-# 🧠 Information Architecture & Research Communication
-
-One of my growing interests is the way **information is structured and discovered**.
-
-I enjoy working at the intersection of:
+### 🧠 Information, by design
 
 ```text
-Research
-   ↓
-Information
-   ↓
-Structure
-   ↓
-Design
-   ↓
-Communication
-   ↓
-Discovery
+Research → Information → Structure → Design → Communication → Discovery
 ```
 
-This is particularly relevant to **academic websites, research communication, digital repositories, and information-heavy interfaces**.
-
-I'm interested in making complex information feel **clearer, more navigable, and more human-centered**.
+I'm drawn to academic websites, research communication and information-heavy interfaces, and I want to make complex information **clearer, more navigable and more human**.
 
 ---
 
-# 🪖 NCC
+## 🧩 Tech Stack
 
-## NCC — Christ Junior College
-
-**NCC B Certificate**  
-**2 Years of Training**
-
-### Highlights
-
-- Completed two years of NCC training.
-- Participated in camps and institutional activities.
-- Participated in **IGC / Inter Group Competition**.
-- **🥇 Gold Medal — Dance**
-- **Rifle Shooting — Represented 2/9 Coy NCC** at IGC Karnataka & Goa Directorate.
-- Developed experience in teamwork, discipline, coordination, and event management.
-
----
-
-# 🏅 Sports
-
-### 🏐 Volleyball
-
-**🥇 Gold Medal — District Level**
-
-**State-Level Representation**
-
-Represented my institution at the state level.
-
-### 🏸 Throwball
-
-**🥇 Gold Medal — District Level**
+<p>
+<img src="https://img.shields.io/badge/C-0B1026?style=flat-square&logo=c&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/C++-0B1026?style=flat-square&logo=cplusplus&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/JavaScript-0B1026?style=flat-square&logo=javascript&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/React-0B1026?style=flat-square&logo=react&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Next.js-0B1026?style=flat-square&logo=nextdotjs&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Tailwind-0B1026?style=flat-square&logo=tailwindcss&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/AngularJS-0B1026?style=flat-square&logo=angularjs&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Node.js-0B1026?style=flat-square&logo=nodedotjs&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Express-0B1026?style=flat-square&logo=express&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Supabase-0B1026?style=flat-square&logo=supabase&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0B1026?style=flat-square&logo=postgresql&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/MySQL-0B1026?style=flat-square&logo=mysql&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/MongoDB-0B1026?style=flat-square&logo=mongodb&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Vercel-0B1026?style=flat-square&logo=vercel&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Unity-0B1026?style=flat-square&logo=unity&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Git-0B1026?style=flat-square&logo=git&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Figma-0B1026?style=flat-square&logo=figma&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/Canva-0B1026?style=flat-square&logo=canva&logoColor=7CBFE9"/>
+<img src="https://img.shields.io/badge/LLMs-0B1026?style=flat-square&labelColor=0B1026&color=7CBFE9"/>
+<img src="https://img.shields.io/badge/RAG-0B1026?style=flat-square&labelColor=0B1026&color=7CBFE9"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0B1026?style=flat-square&labelColor=0B1026&color=7CBFE9"/>
+<img src="https://img.shields.io/badge/NVIDIA%20NeMo-0B1026?style=flat-square&labelColor=0B1026&color=7CBFE9"/>
+</p>
 
 ---
 
-# 🎤 University & Academic Engagement
+## 🧭 How I Work
 
-Beyond academics and technical projects, I've participated in university-level events involving **AI, research, technology, communication, hospitality, logistics, and student engagement**.
-
-### International Conferences
-
-Served as an **Emcee** at:
-
-- **IEEE ICONICA 2026**
-- **SDG International Conference**, in association with **Sophia University, Japan**
-
-### Other Engagement
-
-- AI and research events
-- Technology-focused academic events
-- Event operations
-- Hospitality
-- Logistics
-- Student engagement
-- Coordination
-- Academic project presentations
+**01 Understand** the problem, user and context → **02 Structure** it: *information → flow → interface → functionality* → **03 Build** something interactive → **04 Question** what works and why → **05 Improve** until it's clearer, more useful and more enjoyable.
 
 ---
 
-# 🎓 Education
+## 🎓 Education, Certifications & Beyond
 
-## CHRIST (Deemed to be University), Bengaluru
+<details>
+<summary><b>🎓 Education</b></summary>
 
-### Bachelor of Computer Applications — BCA
+<br>
 
-`2026 – Present`
+- **BCA**, CHRIST (Deemed to be University), Bengaluru, 2026 – Present. Web & backend, C/C++, digital logic, databases, research writing, AI, DSA.
+- **PUC (PCMC)**, Christ Junior College, Karnataka State Board, 2025
+- **SSLC**, Madonna High School, Karnataka State Board, 2023: **96.96%**
 
-**Relevant areas**
+</details>
 
-- Web Development & Backend Technologies
-- C & C++ Programming
-- Digital Logic & Computer Fundamentals
-- Database Management
-- Research & Academic Writing
-- Artificial Intelligence
-- Data Structures & Algorithms
+<details>
+<summary><b>📜 Certifications & learning</b></summary>
 
----
+<br>
 
-## Christ Junior College, Bengaluru
+Harvard **CS50x** · Enterprise AI / HPC Bootcamp 2026 (Centre for AI, CHRIST) · NVIDIA H100 GPU-based AI training · NVIDIA NeMo · QLoRA / fine-tuning · RAPIDS · Data Artisan Bootcamp 2026 · Cadet Training Program
 
-### PUC — PCMC
+</details>
 
-**Karnataka State Board · 2025**
+<details>
+<summary><b>🎤 Events & engagement</b></summary>
 
----
+<br>
 
-## Madonna High School, Bengaluru
+**Emcee** at **IEEE ICONICA 2026** and the **SDG International Conference** (in association with Sophia University, Japan), plus AI, research and technology events: operations, hospitality, logistics and student engagement.
 
-### SSLC
+</details>
 
-**Karnataka State Board · 2023**
+<details>
+<summary><b>🪖 NCC · 🏅 Sports</b></summary>
 
-**96.96%**
+<br>
 
----
+**NCC B Certificate** (Christ Junior College, 2 years). Participated in IGC; 🥇 Gold Medal in Dance; represented 2/9 Coy NCC in Rifle Shooting at IGC Karnataka & Goa Directorate.
+**Volleyball:** 🥇 District gold, state-level representation. **Throwball:** 🥇 District gold.
 
-# 📜 Certifications & Technical Learning
+</details>
 
-- **Harvard CS50x — Introduction to Computer Science**
-- **Enterprise AI / HPC Bootcamp 2026 — Centre for AI, CHRIST University**
-- **NVIDIA H100 GPU-based AI Training**
-- **NVIDIA NeMo**
-- **QLoRA / Fine-tuning**
-- **RAPIDS**
-- **Data Artisan Bootcamp 2026**
-- **Cadet Training Program**
+<details>
+<summary><b>🌏 Languages</b></summary>
 
----
+<br>
 
-# 🧭 My Skill Map
+English (Professional) · Kannada, Hindi, Telugu (Fluent) · French (A1) · Mandarin Chinese (HSK 1)
 
-<table>
-<tr>
-<td align="center" width="25%">
+</details>
 
-### 🌐
+<details>
+<summary><b>🌱 Outside the terminal</b></summary>
 
-**WEB**
+<br>
 
-HTML  
-CSS  
-JavaScript  
-React  
-AngularJS
+Dancing · journaling · digital creation · game development · robotics · visual design · Pinterest curation
 
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**BACKEND**
-
-Node.js  
-Express  
-MySQL  
-MongoDB  
-SQL
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI**
-
-LLMs  
-RAG  
-Agentic AI  
-NeMo  
-QLoRA
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-
-**DESIGN**
-
-UI/UX  
-Canva  
-Figma  
-Visual hierarchy  
-Content design
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-# 🧪 What I'm Learning Right Now
+## 🎯 Where I'm Headed
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  WEB                                        │
-│  ├── JavaScript                             │
-│  ├── React                                  │
-│  └── Full-Stack Development                 │
-│                                             │
-│  COMPUTER SCIENCE                           │
-│  ├── DSA                                    │
-│  ├── Databases                              │
-│  └── Core Programming                       │
-│                                             │
-│  AI                                         │
-│  ├── LLM Applications                       │
-│  ├── RAG                                    │
-│  ├── Agentic AI                             │
-│  └── AI Research                            │
-│                                             │
-│  DESIGN                                     │
-│  ├── UI / UX                                │
-│  ├── Information Architecture               │
-│  └── Digital Experiences                    │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+I'm building a foundation across **software engineering, AI, research, design and information**, with the aim of making technology that's not only capable but **thoughtful, accessible and genuinely useful.**
 
 ---
-
-# 🧩 How I Like to Work
-
-### 01 — Understand
-
-I like understanding the **problem, user, information, and context** before jumping into implementation.
-
-### 02 — Structure
-
-I break ideas into:
-
-`Information → Flow → Interface → Functionality`
-
-### 03 — Build
-
-Then I turn the structure into something interactive.
-
-### 04 — Question
-
-I test what works, what doesn't, and **why**.
-
-### 05 — Improve
-
-The goal isn't just to make something functional.
-
-It's to make it **clearer, more useful, and more enjoyable to experience.**
-
----
-
-# 🌱 Beyond Technology
-
-Technology is a big part of my life, but definitely not all of it.
-
-### I enjoy
-
-- 💃 Dancing
-- 📖 Journaling
-- 🎨 Digital creation
-- 🎮 Game development
-- 🤖 Robotics
-- 🌐 Web technologies
-- 🔬 Research
-- ✨ Visual design
-- 📌 Pinterest content creation
-
----
-
-# 🌏 Languages
-
-| Language | Level |
-|---|---|
-| English | Professional |
-| Kannada | Fluent |
-| Hindi | Fluent |
-| Telugu | Fluent |
-| French | A1 |
-| Mandarin Chinese | HSK 1 |
-
----
-
-# 💭 A Few Things About Me
-
-```text
-I like clean interfaces.
-I like organized information.
-I like pretty things that are also functional.
-I like asking "why?" before accepting "because".
-I like learning by actually building.
-I like technology — but I also like the human side of it.
-```
-
----
-
-# 🎯 Where I'm Headed
-
-Right now, I'm building a foundation across **software development, web technologies, AI, research, and digital experiences**.
-
-Over time, I want to grow toward work that combines:
-
-### `Software Engineering`
-### `AI`
-### `Research`
-### `Design`
-### `Information`
-
-My long-term goal is to build technology that isn't just technically capable, but also **thoughtful, accessible, understandable, and genuinely useful.**
-
----
-
-# 📊 GitHub
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=heyytejaswini&show_icons=true&hide_border=true&title_color=7CBFE9&icon_color=7CBFE9&text_color=6B7280&bg_color=FFFFFF00" height="165"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyytejaswini&layout=compact&hide_border=true&title_color=7CBFE9&text_color=6B7280&bg_color=FFFFFF00" height="165"/>
 
-</div>
+<br><br>
 
----
+### 🩵 Let's connect
+Web development · AI · research · design · emerging technology
 
-# 🩵 Let's Connect
-
-I'm always happy to connect with people interested in:
-
-**Web Development · AI · Research · Design · Software Engineering · Emerging Technology**
+<a href="https://github.com/heyytejaswini"><img src="https://img.shields.io/badge/GitHub-heyytejaswini-0B1026?style=for-the-badge&logo=github&logoColor=7CBFE9"/></a>
+<a href="https://www.linkedin.com/in/heyytejaswini/"><img src="https://img.shields.io/badge/LinkedIn-Tejaswini%20V-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=0B1026"/></a>
 
 <br>
 
-<div align="center">
+`curious mind → messy first draft → better version → repeat`
 
-<a href="https://github.com/heyytejaswini">
-<img src="https://img.shields.io/badge/GitHub-heyytejaswini-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/heyytejaswini/">
-<img src="https://img.shields.io/badge/LinkedIn-Tejaswini%20V-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0B1026&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-### `curious mind → messy first draft → better version → repeat`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7CBFE9&section=footer" width="100%"/>
-
-</div>
-
-<!--
-Made with curiosity, caffeine, and too many browser tabs. 🩵
--->
+<!-- Made with curiosity, caffeine, and too many browser tabs. 🩵 -->
