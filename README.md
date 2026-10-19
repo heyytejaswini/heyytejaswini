@@ -8,8 +8,15 @@
 
 <br><br>
 
-<a href="https://github.com/heyytejaswini"><img src="https://img.shields.io/badge/GitHub-heyytejaswini-0B1026?style=for-the-badge&logo=github&logoColor=7CBFE9"/></a>
-<a href="https://www.linkedin.com/in/heyytejaswini/"><img src="https://img.shields.io/badge/LinkedIn-Tejaswini%20V-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=0B1026"/></a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/heyytejaswini/"><img src="https://img.shields.io/badge/LinkedIn-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=0B1026"/></a>
+&nbsp;
+<a href="mailto:heyytejaswini@gmail.com"><img src="https://img.shields.io/badge/heyytejaswini%40gmail.com-0B1026?style=for-the-badge&logo=gmail&logoColor=7CBFE9"/></a>
+
+<sub>✦ open to collaborations, internships and interesting conversations ✦</sub>
+
+</div>
 
 </div>
 
@@ -318,14 +325,17 @@ I'm building a foundation across **software engineering, AI, research, design an
 ### 🩵 Let's connect
 Web development · AI · research · design · emerging technology
 
-<a href="https://github.com/heyytejaswini"><img src="https://img.shields.io/badge/GitHub-heyytejaswini-0B1026?style=for-the-badge&logo=github&logoColor=7CBFE9"/></a>
-<a href="https://www.linkedin.com/in/heyytejaswini/"><img src="https://img.shields.io/badge/LinkedIn-Tejaswini%20V-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=0B1026"/></a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/heyytejaswini/"><img src="https://img.shields.io/badge/LinkedIn-7CBFE9?style=for-the-badge&logo=linkedin&logoColor=0B1026"/></a>
+&nbsp;
+<a href="mailto:heyytejaswini@gmail.com"><img src="https://img.shields.io/badge/heyytejaswini%40gmail.com-0B1026?style=for-the-badge&logo=gmail&logoColor=7CBFE9"/></a>
+
+<sub>✦ open to collaborations, internships and interesting conversations ✦</sub>
+
+</div>
 
 <br>
-
-`curious mind → messy first draft → better version → repeat`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0B1026&section=footer&animation=twinkling" width="100%"/>
 
 </div>
 
