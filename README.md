@@ -57,39 +57,42 @@ LLMs · RAG · agentic AI · intelligent information retrieval · robotics · GP
 
 </div>
 
-**Starstamp** is a web app for time-locked letters. You write a letter and seal it with an unlock rule: a **date**, or something like **"when it rains in my city."** You can choose to turn the letter into a **star** in a shared sky. The star shows that a letter exists but never what it says. When the rule is met, the letter unfolds. Letters can also be answered with sealed replies, which form chains that grow into a **web of letters**.
+**Starstamp** is a web app for time-locked letters. You write a letter to your future self, choose the **date** it should open, and seal it in an envelope you design yourself: layout, seal colour, stamp, postmark and stamped words. The envelope then turns into a **star** and flies into your night sky. When the day arrives, the star opens and the letter is yours again, and you get an email to tell you it's ready (the email never contains the letter's text).
 
-`🚧 In Progress`
+Next up: a shared sky where letters you choose to share become stars for everyone, with lights, live shooting stars and reply letters.
+
+`🚧 In Progress` · [Try it live](https://starstamp.vercel.app)
 
 ### The stack, in plain words
 
 | Part | Tool | Its job in Starstamp |
 |---|---|---|
-| **Frontend** | Next.js · React · Tailwind | The sky, the writing desk, *My Letters* |
-| **Animation** | Canvas · GSAP · Framer Motion | Falling stars, the hourglass, pages unfolding |
-| **Backend** | Next.js server code on Vercel | Anything that must be trusted: saving letters, checking if one can open |
-| **Database** | Supabase Postgres | Letters, stars, lights |
-| **Auth** | Supabase Auth | Email-link or Google sign-in |
-| **Realtime** | Supabase Realtime | Live shooting stars and who's online |
-| **Weather** | Open-Meteo API | "Is it raining in this city right now?" |
+| **Frontend** | Next.js · React · Tailwind | The sky, the writing desk, the star drawer |
+| **Animation** | GSAP · SVG · Canvas | The door, the sealing sequence, the star flight, the twinkling sky |
+| **Database** | Supabase Postgres | Letters, stars, envelope designs |
+| **Auth** | Supabase Auth | Passwordless email-link sign-in |
+| **Security** | Row Level Security | Decides who may read which letter and when |
+| **Email** | Nodemailer · Vercel Cron | A daily job that emails writers when a letter is ready |
+| **Hosting** | Vercel | The site and the scheduled job |
 
 ### The life of a letter
 
 ```mermaid
 flowchart LR
-    A["✍️ Write & seal<br/>text + unlock rule + public star?"] --> B["🔒 State: sealed<br/>(public → a textless star appears)"]
-    B --> C{"Someone asks<br/>to open it"}
-    C -->|"server checks the rule<br/>date or Open-Meteo rain"| D{"Rule passes?"}
-    D -->|"no"| B
-    D -->|"yes"| E["📬 Marked opened<br/>text returned, page unfolds"]
-    E --> F["💌 Seal a reply<br/>→ chains → web of letters"]
+    A["✍️ Write & seal<br/>text + date + envelope design"] --> B["🔒 Sealed<br/>envelope turns into a star in the sky"]
+    B --> C{"The date arrives"}
+    C --> D["📧 Daily job emails the writer<br/>(no letter text inside)"]
+    C --> E["⭐ The star opens<br/>database allows the text to be read"]
+    E --> F["🗑️ Keep it, or delete it<br/>(opened letters only)"]
 ```
 
 ### Design decisions I'm proud of
 
-- **The browser is never trusted.** Anyone can open DevTools and tamper with what a page sends, so *"you can't read a sealed letter"* is enforced by the database itself with **Row Level Security (RLS)**, not by hiding things in the UI.
-- **Lazy checking.** Nothing ticks in the background. The server tests the unlock rule only when someone asks to open a letter, so version 1 needs no scheduler.
-- **Stretch goal:** "your letter can open now" emails, which will need scheduled jobs. I'll check the current Vercel plan limits before relying on them.
+- **The browser is never trusted.** Anyone can open DevTools and tamper with what a page sends, so *"you can't read a sealed letter"* is enforced by the database itself with **Row Level Security (RLS)**, not by hiding things in the UI. The same goes for deleting: the database only allows it for your own letters that have already opened.
+- **Lazy checking.** Nothing ticks in the background to unlock a letter. The database tests the date whenever someone asks to read it, so a letter can never open early.
+- **Emails without secrets.** The unlock email only says a star is ready. The letter's text never leaves the database until its owner opens it.
+- **Fast with many stars.** The sky draws glows from cached sprites instead of recalculating them every frame, which fixed lag once an account had hundreds of letters.
+- **Complete deletion.** Deleting a letter removes its text, its star and everything linked to it in one step.
 
 ---
 
